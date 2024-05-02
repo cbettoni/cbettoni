@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning JS - ruby in rails, HTML5, CSS
-- 👯 I’m looking for a new job
+- 🌱 HTML5, CSS, JS, Next.JS, Ruby in rails
 - 📫 How to reach me: christelle.bettoni@gmail.com
-- 😄 Pronouns: she/her
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbettoni&show_icons=true&theme=radical)
 
