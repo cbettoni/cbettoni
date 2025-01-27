@@ -47,7 +47,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
   <a href="https://twig.symfony.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Twig.svg" alt="Twig" width="40" height="40"/>
+  <img src="https://twig.symfony.com/images/logo.md.png" alt="Twig" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 4px;"/>
 </a>
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
