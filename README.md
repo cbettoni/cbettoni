@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 HTML5, SCSS, JavaScript, Next.js, Ruby on Rails, React, TypeScript, PHP, Twig, TailwindCSS, SCSS, WordPress, Bedrock, Git, GitLab, Figma, Adobe Illustrator, Adobe Photoshop
+- 🌱 HTML5, SCSS, JavaScript, Next.js, Ruby on Rails, React, TypeScript, PHP, Twig, TailwindCSS, SCSS, WordPress, Bedrock, Strapi, Git, GitLab, Figma, Adobe Illustrator, Adobe Photoshop
 
 - 📫 How to reach me: christelle.bettoni@gmail.com
 
